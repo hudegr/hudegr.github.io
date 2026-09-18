@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hudegr.github.io/sitemap.xml

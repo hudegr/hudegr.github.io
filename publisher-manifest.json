@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "642209c746af2bacc44ba7ca",
+  "owner": "hudegr",
+  "repo": "hudegr.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "1209b15532ff39e45ced8579",
+      "a": "搬瓦工(JustMySocks)",
+      "b": "加速器官网",
+      "entity": "搬瓦工(JustMySocks)",
+      "brand": "加速器官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c0a007dc47c772e1871a634ea33940dc0c52983ea589deb4fc06085d0a58f50f",
+      "content": {
+        "primary_entity": "搬瓦工(JustMySocks)",
+        "keyword1": "搬瓦工(JustMySocks)",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_DESCRIPTION": "，搬瓦工(JustMySocks)提供三档海外加速套餐，从基础版到团队版，覆盖个人浏览、流媒体解锁与游戏专线需求。选择时关注设备数量、流量额度与线路类型，按年付可降低月均成本。",
+          "AI_HERO_SUBTITLE": "搬瓦工加速器，三档套餐灵活选",
+          "AI_HERO_INTRO": "搬瓦工(JustMySocks)是面向跨境访问的加速服务，提供基础版、旗舰版与团队版三档套餐。不同套餐在流量、设备数、线路类型与流媒体支持上有区分，用户可按使用场景对比选择。",
+          "AI_VISUAL_TITLE": "搬瓦工加速套餐对比",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含专线游戏优化",
+          "AI_HIGHLIGHT_3": "按年付费更划算",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度，快速判断哪档套餐适合自己。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版适合少量设备，旗舰版增加设备支持，团队版可覆盖多台设备同时使用。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档",
+          "AI_FEATURE_TEXT_2": "轻度浏览选基础版，常看流媒体选旗舰版，重度多设备使用选团队版更从容。",
+          "AI_FEATURE_TITLE_3": "订阅周期与成本",
+          "AI_FEATURE_TEXT_3": "按月付或按年付均可，年付方案月均成本更低，长期使用建议选择年付。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应的客户端。订阅配置请参考所选客户端的文档说明。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和线路类型上各有侧重，先明确使用场景再对比选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "选定套餐后，确认设备与客户端适配情况，再导入订阅开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与订阅协议要求，准备好对应的客户端应用。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中按文档导入订阅信息，完成配置后即可使用加速服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定加速",
+          "AI_CLOSING_TEXT": "按设备数和流量需求选定套餐，按年付更省，配置订阅即可使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "搬瓦工(JustMySocks)的套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "先看常用设备数量和每月流量。一个人一两台设备轻度使用，基础版足够；有流媒体和游戏加速需求可考虑旗舰版；多人共享或高流量选团队版。",
+          "AI_FAQ_QUESTION_2": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_2": "按年付的月均成本更低，适合确定长期使用的用户。按月付灵活，适合先试用或使用周期不固定的情况，两者在套餐权益上一致。",
+          "AI_FAQ_QUESTION_3": "一个套餐能同时几台设备使用？",
+          "AI_FAQ_ANSWER_3": "各档套餐支持的同时在线设备数量不同，基础版偏少，旗舰版适中，团队版最多。如果经常多设备同时在线，建议按实际设备数选择合适档次。",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入到客户端？",
+          "AI_FAQ_ANSWER_4": "根据所用设备的客户端类型，参照对应文档导入订阅信息。不同客户端操作方式略有差异，导入后测试连接是否正常即可。",
+          "AI_FAQ_QUESTION_5": "流量用超了会怎样？",
+          "AI_FAQ_ANSWER_5": "每档套餐有对应月流量额度，重度下载或长时间高清播放会更快消耗流量。日常浏览和影音可按需选择合适的流量档次。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2b7fe43b5c0dc0155e1c12ed7e84f060d7bd9c72341783731159c09ae796adb4",
+    "sitemap.xml": "b1072d64432e9adfc781502fdcff426d99478f6e03812b8f99c5cbe4dfc25951",
+    "robots.txt": "093597b6791ed934b54b7ce3b9d38e0a2cf636f644c856e60b234a875c23f232",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "fc6906bb98709630dae6b7b1383de165be0860eae4f0dd94215df6c5273fab21"
+}
